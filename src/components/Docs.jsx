@@ -4,7 +4,7 @@ export default function Docs() {
   const credits = [
     {
       name: 'dotdash_nova',
-      avatar: 'https://cdn.discordapp.com/attachments/1498007533263130726/1502700184470290634/vite.svg.png?ex=6a00aa1a&is=69ff589a&hm=1f3a4b524c9013e6716adcc4d93b255d122cf9e41457bf3c74888c9531aa14a8',
+      avatar: 'https://cdn.discordapp.com/attachments/1492211162647888004/1506764126054121562/Copilot_20260519_181231.png?ex=6a0f72f1&is=6a0e2171&hm=9011c78da53ffe94c21157201ada9e74dda7c973b02fe13d3c26b699ea483724',
       Server: 'https://discord.gg/xN7mWvYxtv',
       Website: 'https://novacorpcorporation.vercel.app',
       contact: 'https://discord.com/users/1149165064335675423'
